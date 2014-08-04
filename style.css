@@ -1,0 +1,28 @@
+body { background: #E5E6D8; }
+
+#site-wrapper {  }
+
+.block-wrapper {
+	width: 600px;
+}
+
+.simple-block {
+	position: relative;
+	width: 150px;
+	height: 200px;
+	background: #6F8A79;
+	float: left;
+	margin: 0 15px 15px 0;
+	color: #fff;
+	padding: 5px;
+	box-sizing: border-box;
+	transition: all ease .3s;
+}
+
+.block1 { height: 50px; }
+.block2 { height: 120px; }
+.block3 { height: 80px; }
+.block4 { height: 30px; }
+.block5 { height: 220px; }
+.block6 { height: 300px; }
+.block7 { height: 50px; }
